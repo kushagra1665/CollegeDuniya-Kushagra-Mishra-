@@ -1,0 +1,20 @@
+h3{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    font-weight: bold;
+}
+.card-body {
+    background-image: url(images/college_02.jpg);
+    background-size: auto;
+}
+
+#pricing{
+    padding: 50px;
+    text-align: center;
+}
+.pricing-col{
+    padding: 1% 1%;
+
+}
